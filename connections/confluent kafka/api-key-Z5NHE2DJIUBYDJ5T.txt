@@ -1,0 +1,10 @@
+=== Confluent Cloud API key: lkc-w5nxqm ===
+
+API key:
+Z5NHE2DJIUBYDJ5T
+
+API secret:
+7YSfjIjuMJSzbD1LTi+E66pGQmyCJM/j9rfeLOIy4OuzF4gSX+sEqIAzCv/GjT+7
+
+Bootstrap server:
+pkc-56d1g.eastus.azure.confluent.cloud:9092
